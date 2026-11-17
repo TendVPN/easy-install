@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.preview/
+state.json
+*.env
+*.dump
+backups/
